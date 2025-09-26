@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP WhatsApp Chat
- * Plugin URI: https://github.com/tu-usuario/wp-whatsapp-chat
+ * Plugin URI: https://github.com/estratos/wp-whatsapp-chat
  * Description: Añade un botón flotante de WhatsApp para que los visitantes puedan contactarte fácilmente
  * Version: 1.0.0
  * Author: Tu Nombre
